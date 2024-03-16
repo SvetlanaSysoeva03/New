@@ -1,0 +1,15 @@
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\bin\Debug\net6.0\контрольная.exe
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\bin\Debug\net6.0\контрольная.deps.json
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\bin\Debug\net6.0\контрольная.runtimeconfig.json
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\bin\Debug\net6.0\контрольная.dll
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\bin\Debug\net6.0\контрольная.pdb
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\obj\Debug\net6.0\контрольная.csproj.AssemblyReference.cache
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\obj\Debug\net6.0\контрольная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\obj\Debug\net6.0\контрольная.AssemblyInfoInputs.cache
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\obj\Debug\net6.0\контрольная.AssemblyInfo.cs
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\obj\Debug\net6.0\контрольная.csproj.CoreCompileInputs.cache
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\obj\Debug\net6.0\контрольная.dll
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\obj\Debug\net6.0\refint\контрольная.dll
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\obj\Debug\net6.0\контрольная.pdb
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\obj\Debug\net6.0\контрольная.genruntimeconfig.cache
+C:\Users\s9192\OneDrive\Рабочий стол\geekBrains\C#\итог\контрольная\obj\Debug\net6.0\ref\контрольная.dll
